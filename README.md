@@ -1,2 +1,5 @@
 # Graph-Clustering
-Graph Culstering using laplacian matrix
+
+
+Final project of linear algebra course, spring 2022.
+
